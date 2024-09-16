@@ -1,0 +1,6 @@
+@MicrosoftLearnWebapi_HostAddress = http://localhost:5219
+
+GET {{MicrosoftLearnWebapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
